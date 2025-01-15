@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0" version="26.0.5">
   <diagram name="Page-1" id="xrGbgxdM71WrMlbxLxBi">
-    <mxGraphModel dx="625" dy="276" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="641" dy="283" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -37,8 +37,8 @@
         <mxCell id="4Zif2yFagEE3A4cHk3hG-12" value="Samarbeids verktøy" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="98" y="358" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="4Zif2yFagEE3A4cHk3hG-16" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://1000logos.net/wp-content/uploads/2022/03/Gitlab-Logo.jpg;" vertex="1" parent="1">
-          <mxGeometry x="123.62" y="388" width="88.76" height="50" as="geometry" />
+        <mxCell id="4Zif2yFagEE3A4cHk3hG-16" value="&#xa;" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://1000logos.net/wp-content/uploads/2022/03/Gitlab-Logo.jpg;clipPath=inset(26.33% 0% 24.56% 0%);" vertex="1" parent="1">
+          <mxGeometry x="108.62" y="385.44" width="88.76" height="24.556933333333333" as="geometry" />
         </mxCell>
         <mxCell id="4Zif2yFagEE3A4cHk3hG-17" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="608" y="280" width="120" height="160" as="geometry" />
@@ -89,7 +89,16 @@
           <mxGeometry x="330.3" y="410" width="131.8" height="40" as="geometry" />
         </mxCell>
         <mxCell id="4Zif2yFagEE3A4cHk3hG-52" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://logos-world.net/wp-content/uploads/2020/11/Discord-Logo.png;" vertex="1" parent="1">
-          <mxGeometry x="123.62" y="420" width="88.89" height="50" as="geometry" />
+          <mxGeometry x="118.56" y="400" width="88.89" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="4Zif2yFagEE3A4cHk3hG-53" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://searchvectorlogo.com/wp-content/uploads/2020/11/teamgantt-logo-vector.png;clipPath=inset(29.64% 0% 34.43% 0%);" vertex="1" parent="1">
+          <mxGeometry x="118.56" y="440" width="90" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="4Zif2yFagEE3A4cHk3hG-54" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://mailmeteor.com/logos/assets/PNG/Microsoft_Office_Word_Logo_512px.png;" vertex="1" parent="1">
+          <mxGeometry x="118.56" y="600.4" width="42.93" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4Zif2yFagEE3A4cHk3hG-56" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.logo.wine/a/logo/Microsoft_Excel/Microsoft_Excel-Logo.wine.svg;" vertex="1" parent="1">
+          <mxGeometry x="143.3" y="590.6" width="89.4" height="59.6" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
