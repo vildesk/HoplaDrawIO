@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0" version="26.2.14">
   <diagram name="Page-1" id="xrGbgxdM71WrMlbxLxBi">
-    <mxGraphModel dx="1819" dy="814" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1591" dy="713" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -65,22 +65,19 @@
           <mxGeometry x="330.89" y="325.29" width="77.11" height="69.43" as="geometry" />
         </mxCell>
         <mxCell id="4Zif2yFagEE3A4cHk3hG-43" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="392.6" y="100" width="187.4" height="120" as="geometry" />
+          <mxGeometry x="389.6" y="100" width="187.4" height="120" as="geometry" />
         </mxCell>
         <mxCell id="4Zif2yFagEE3A4cHk3hG-44" value="Deployment miljø" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="390" y="70" width="120" height="30" as="geometry" />
+          <mxGeometry x="379" y="70" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4Zif2yFagEE3A4cHk3hG-45" value="&#xa;" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://intellyx.com/wp-content/uploads/2019/08/Render-cloud-intellyx-BC-logo.png;clipPath=inset(29.62% 3.33% 29.62% 10%);" parent="1" vertex="1">
-          <mxGeometry x="400" y="110" width="121.88" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="4Zif2yFagEE3A4cHk3hG-48" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://1000logos.net/wp-content/uploads/2020/08/PostgreSQL-Logo.png;" parent="1" vertex="1">
-          <mxGeometry x="404.7" y="109" width="163.2" height="102" as="geometry" />
+          <mxGeometry x="400" y="110" width="162.51" height="40" as="geometry" />
         </mxCell>
         <mxCell id="4Zif2yFagEE3A4cHk3hG-49" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://i.pinimg.com/originals/8e/14/6e/8e146e9e28baeb9b59c6004ed7b1343b.png;" parent="1" vertex="1">
-          <mxGeometry x="440.94" y="171" width="40" height="40" as="geometry" />
+          <mxGeometry x="430" y="160.06" width="50.94" height="50.94" as="geometry" />
         </mxCell>
         <mxCell id="4Zif2yFagEE3A4cHk3hG-50" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://i.pinimg.com/736x/bf/07/6b/bf076b277da22ec758fe25215a692cf6.jpg;" parent="1" vertex="1">
-          <mxGeometry x="499" y="176.5" width="29" height="29" as="geometry" />
+          <mxGeometry x="499" y="166.53" width="38" height="38" as="geometry" />
         </mxCell>
         <mxCell id="4Zif2yFagEE3A4cHk3hG-51" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://upload.wikimedia.org/wikipedia/commons/c/c2/Postman_%28software%29.png;" parent="1" vertex="1">
           <mxGeometry x="349.14" y="413" width="131.8" height="40" as="geometry" />
@@ -175,6 +172,24 @@
         </mxCell>
         <mxCell id="4Zif2yFagEE3A4cHk3hG-66" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://logos-world.net/wp-content/uploads/2021/02/Docker-Logo.png;" parent="1" vertex="1">
           <mxGeometry x="404.70000000000005" y="335.61" width="111.34" height="62.63" as="geometry" />
+        </mxCell>
+        <mxCell id="HiEMw9PIucIFfT2dCAV--2" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://seeklogo.com/images/D/draw-io-logo-59133ABE5E-seeklogo.com.png;" vertex="1" parent="1">
+          <mxGeometry x="228" y="582.7" width="55" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="HiEMw9PIucIFfT2dCAV--3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="128.6" y="156.5" width="171.4" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="4Zif2yFagEE3A4cHk3hG-48" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://1000logos.net/wp-content/uploads/2020/08/PostgreSQL-Logo.png;" parent="1" vertex="1">
+          <mxGeometry x="136.8" y="130" width="163.2" height="102" as="geometry" />
+        </mxCell>
+        <mxCell id="HiEMw9PIucIFfT2dCAV--4" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.012;entryY=0.672;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="HiEMw9PIucIFfT2dCAV--3" target="4Zif2yFagEE3A4cHk3hG-43">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="460" y="200" as="sourcePoint" />
+            <mxPoint x="370" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HiEMw9PIucIFfT2dCAV--5" value="Database" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="128" y="126.5" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
