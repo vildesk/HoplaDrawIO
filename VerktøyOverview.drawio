@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0" version="27.0.4">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0" version="27.0.5">
   <diagram name="Page-1" id="xrGbgxdM71WrMlbxLxBi">
-    <mxGraphModel dx="1216" dy="671" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="795" dy="438" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -64,8 +64,8 @@
         <mxCell id="4Zif2yFagEE3A4cHk3hG-43" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="389.6" y="100" width="187.4" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="4Zif2yFagEE3A4cHk3hG-44" value="Deployment-miljø" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="379" y="70" width="120" height="30" as="geometry" />
+        <mxCell id="4Zif2yFagEE3A4cHk3hG-44" value="Hosting/Deployment-miljø" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="388" y="70" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4Zif2yFagEE3A4cHk3hG-45" value="&#xa;" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://intellyx.com/wp-content/uploads/2019/08/Render-cloud-intellyx-BC-logo.png;clipPath=inset(29.62% 3.33% 29.62% 10%);" parent="1" vertex="1">
           <mxGeometry x="400" y="110" width="162.51" height="40" as="geometry" />
@@ -185,10 +185,10 @@
             <mxPoint x="540" y="320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DKb_kaFy1wlHZuGa7C6O-1" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://ubuntu.com/wp-content/uploads/c9f4/visualstudio_code-card.png;" vertex="1" parent="1">
+        <mxCell id="DKb_kaFy1wlHZuGa7C6O-1" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://ubuntu.com/wp-content/uploads/c9f4/visualstudio_code-card.png;" parent="1" vertex="1">
           <mxGeometry x="612.71" y="374.28" width="104" height="52" as="geometry" />
         </mxCell>
-        <mxCell id="DKb_kaFy1wlHZuGa7C6O-2" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://i.pcmag.com/imagery/reviews/019wuRDRdd2Nbi4aYi5RR2U-5.fit_lim.size_1050x591.v1569477977.jpg;clipPath=inset(20.41% 0% 34.62% 0%);" vertex="1" parent="1">
+        <mxCell id="DKb_kaFy1wlHZuGa7C6O-2" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://i.pcmag.com/imagery/reviews/019wuRDRdd2Nbi4aYi5RR2U-5.fit_lim.size_1050x591.v1569477977.jpg;clipPath=inset(20.41% 0% 34.62% 0%);" parent="1" vertex="1">
           <mxGeometry x="136.8" y="440.00000000000006" width="108" height="27.36" as="geometry" />
         </mxCell>
       </root>
